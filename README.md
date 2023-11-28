@@ -1,4 +1,4 @@
-# google_maps_yt
+# Google Maps Flutter 2.5.0
 
 A new Flutter project.
 
